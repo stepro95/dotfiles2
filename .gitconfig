@@ -1,0 +1,7 @@
+[user]
+	email = steven.provost@amista.com
+	name = Steven Provost
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
